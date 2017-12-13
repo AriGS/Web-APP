@@ -97,7 +97,6 @@ function setup(){
   slider.position (555,720);
   slider.style('width', '300px');
   slider.style('background',"#99e0fc");
-  slider.style('slider-handle','background',"red");
 
 
 // creates and then hides the divs that appear when the amygdala and insula are clicked in order to insure they appear properly later
